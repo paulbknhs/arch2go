@@ -8,7 +8,7 @@ WAYBAR="$CONFIG/waybar"
 KITTY="$CONFIG/kitty"
 
 sudo pacman --noconfirm -Syu
-sudo pacman --noconfirm -S base base-devel git curl wget zsh lsd fzf bat hyprland hyprpaper waybar sddm
+sudo pacman --noconfirm -S base base-devel git curl wget zsh lsd fzf bat hyprland hyprpaper waybar sddm okular
 
 sudo systemctl enable sddm
 
