@@ -22,14 +22,13 @@ Modern Arch Linux configuration with Hyprland Wayland compositor, theming, and e
 
 ```bash
 pacman -S --needed git base-devel
-git clone https://github.com/yourusername/arch-hyprland-setup.git
+git clone https://github.com/paulbknhs/arch2go
 ```
 
 2. **Run installer**:
 
 ```bash
-cd arch-hyprland-setup
-chmod +x install.sh
+cd arch2go
 ./install.sh
 ```
 
