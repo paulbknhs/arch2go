@@ -34,7 +34,7 @@ cd arch2go
 
 ## Desktop Environment 🖥️
 
-![Desktop Preview](screenshots/desktop.png) _(include actual screenshot later)_
+![Desktop Preview](screenshots/desktop.png)
 
 **Key Components**:
 
