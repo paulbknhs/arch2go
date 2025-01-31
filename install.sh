@@ -26,6 +26,7 @@ PACKAGES=(
 	"hyprpaper" "Wallpaper-Dienst für Hyprland" "on"
 	"hyprlock" "Session-Lock für Hyprland" "on"
 	"hyprshot" "Screenshot-Tool für Hyprland" "on"
+	"hypridle" "Auto-Suspend für Hyprland" "on"
 	"waybar" "Statusleiste für Hyprland" "on"
 	"sddm" "Display-Manager" "on"
 	"okular" "PDF-Betrachter" "on"
